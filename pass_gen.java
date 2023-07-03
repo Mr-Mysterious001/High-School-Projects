@@ -1,3 +1,7 @@
+/*This is my first java project. This a password generator and checker which can help u create a random password and check if ur password is strong or weak.
+Again this is not my original idea. */
+
+
 import java.util.*;
 import java.io.Console;
 public class pass_gen {
@@ -41,7 +45,7 @@ public class pass_gen {
 
     String passgen() {
         int sc = 0;
-        int i=0;
+        int i=1;
         System.out.println("Enter the required length of password");
         int l = in.nextInt();
         char u,lc,splch,dig;
