@@ -1,5 +1,5 @@
 /*This is my first java project. This a password generator and checker which can help u create a random password and check if ur password is strong or weak.
-Again this is not my original idea. */
+Again this is not my original idea. I have taken inspiration from https://github.com/KZarzour/Password-Generator  */
 
 
 import java.util.*;
